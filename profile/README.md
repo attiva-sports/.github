@@ -1,5 +1,8 @@
-# 🚀 Bem-vindo(a) à Attiva Sports
+# Bem-vindo(a) à Attiva Sports
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/53e070c7-1102-460d-b121-2c8ee5987ee0" width="300" alt="Logo Attiva Sports - Branco">
+</p>
 <p align="center">
   <em>Inteligência para quem domina o próprio jogo.</em>
 </p>
@@ -34,7 +37,3 @@ Deseja revolucionar a forma como você enxerga o jogo? Entre em contato conosco.
 
 🔗 **Hub de Links:** [Nosso Linktree](https://linktr.ee/seulinktreeaqui)
 📱 **Instagram:** [@attivasports](https://instagram.com/attivasports)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/53e070c7-1102-460d-b121-2c8ee5987ee0" width="300" alt="Logo Attiva Sports - Branco">
-</p>
